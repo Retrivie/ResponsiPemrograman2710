@@ -1,0 +1,11 @@
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\obj\Debug\netcoreapp3.1\ResponsiPemrograman2710.csprojAssemblyReference.cache
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\obj\Debug\netcoreapp3.1\ResponsiPemrograman2710.AssemblyInfoInputs.cache
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\obj\Debug\netcoreapp3.1\ResponsiPemrograman2710.AssemblyInfo.cs
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.exe
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.deps.json
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.runtimeconfig.json
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.runtimeconfig.dev.json
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.dll
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\bin\Debug\netcoreapp3.1\ResponsiPemrograman2710.pdb
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\obj\Debug\netcoreapp3.1\ResponsiPemrograman2710.dll
+F:\R\File\Visual Studio\ResponsiPemrograman2710\ResponsiPemrograman2710\obj\Debug\netcoreapp3.1\ResponsiPemrograman2710.pdb
